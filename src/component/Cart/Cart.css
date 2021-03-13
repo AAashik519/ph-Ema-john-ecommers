@@ -1,0 +1,9 @@
+.cart{
+    text-align:  left;
+    font-size: 15px;
+    padding-left: 20px
+}
+.totalPrice{
+    color :red;
+    font-weight: bolder;
+}
